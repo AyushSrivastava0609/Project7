@@ -1,4 +1,4 @@
-Budget App
+#Budget App
 Budget App is a simple web application that helps you manage your budget by tracking your expenses and income.
 
 Features
